@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #d4e2d4;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin-top: 0;
+  font-family: Dosis, sans-serif;
+}
+
+h2 {
+  font-size: 3.125rem;
+  font-family: 'Oxygen', sans-serif;
+
+}
+
+h3 {
+  font-size: 1.875rem;
+  font-family: 'Oxygen', sans-serif;
+  margin-bottom: 0;
+}
+
+.name {
+  margin-bottom: 20px;
+}
+
+
+
+.top-container {
+  background-color: #fcf8e8;
+  position: relative;
+  padding-top: 100px;
+
+
+
+}
+
+
+
+.university {
+  text-decoration: underline;
+}
+
+.sub-head {
+  font-size: 2.705rem;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+
+}
+
+.bottom-cloud {
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+.my-img {
+
+  padding-top: 20px;
+  width: 150px;
+
+}
+
+.code-img {
+  width: 150px;
+  background-color: #ecb390;
+  padding: 20px;
+  border-radius: 100%;
+}
